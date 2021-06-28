@@ -1,15 +1,16 @@
-👉 如果你不知道该学习什么的话，请看 [Java 学习线路图是怎样的？]( https://www.zhihu.com/question/56110328/answer/869069586)  （原创不易，欢迎点赞），这是 2021 最新最完善的 Java 学习路线！
+👉 如果你不知道该学习什么的话，请看 [Java 学习线路图是怎样的？]( https://zhuanlan.zhihu.com/p/379041500)  （原创不易，欢迎点赞），这是 2021 最新最完善的 Java 学习路线！另外，我整理了一份各个技术的学习路线，需要的小伙伴[加我微信](#联系我)备注“**Github-学习路线**”即可！
 
 👉 推荐 [在线阅读](https://snailclimb.gitee.io/javaguide)  (Github 访问速度比较慢可能会导致部分图片无法刷新出来) 
 
-👉 书单已经被移动到[awesome-cs](https://github.com/CodingDocs/awesome-cs) 这个仓库。
+👉 书单已经被移动到 [awesome-cs](https://github.com/CodingDocs/awesome-cs) 这个仓库。
 
 > 1. **介绍**：关于 JavaGuide 的相关介绍请看：[关于 JavaGuide 的一些说明](https://www.yuque.com/snailclimb/dr6cvl/mr44yt) 。
-> 2. **PDF版本** ： [《JavaGuide 面试突击版》PDF 版本](#公众号) 。
-> 3. **图解计算机基础** ：[图解计算机基础 PDF 下载](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=100021725&idx=1&sn=2db9664ca25363139a81691043e9fd8f&chksm=4ea19a1679d61300d8990f7e43bfc7f476577a81b712cf0f9c6f6552a8b219bc081efddb5c54#rd) 。
-> 4. **知识星球** :  简历指导/Java学习/面试指导/面试小册。欢迎加入[我的知识星球](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=100015911&idx=1&sn=2e8a0f5acb749ecbcbb417aa8a4e18cc&chksm=4ea1b0ec79d639fae37df1b86f196e8ce397accfd1dd2004bcadb66b4df5f582d90ae0d62448#rd) 。
-> 5. **面试专版** ：准备面试的小伙伴可以考虑面试专版：[《Java面试进阶指北 》](https://www.yuque.com/docs/share/f37fc804-bfe6-4b0d-b373-9c462188fec7) (质量很高，专为面试打造)
-> 6. **转载须知** ：以下所有文章如非文首说明皆为我（Guide哥）的原创，转载在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！⛽️
+> 2. **贡献指南** ：欢迎参与 [JavaGuide的维护工作](https://github.com/Snailclimb/JavaGuide/issues/1235)，这是一件非常有意义的事情。
+> 3. **PDF版本** ： [《JavaGuide 面试突击版》PDF 版本](#公众号) 。
+> 4. **图解计算机基础** ：[图解计算机基础 PDF 下载](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=100021725&idx=1&sn=2db9664ca25363139a81691043e9fd8f&chksm=4ea19a1679d61300d8990f7e43bfc7f476577a81b712cf0f9c6f6552a8b219bc081efddb5c54#rd) 。
+> 5. **知识星球** :  简历指导/Java学习/面试指导/面试小册。欢迎加入[我的知识星球](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=100015911&idx=1&sn=2e8a0f5acb749ecbcbb417aa8a4e18cc&chksm=4ea1b0ec79d639fae37df1b86f196e8ce397accfd1dd2004bcadb66b4df5f582d90ae0d62448#rd) 。
+> 6. **面试专版** ：准备面试的小伙伴可以考虑面试专版：[《Java面试进阶指北 》](https://www.yuque.com/docs/share/f37fc804-bfe6-4b0d-b373-9c462188fec7) (质量很高，专为面试打造)
+> 7. **转载须知** ：以下所有文章如非文首说明皆为我（Guide哥）的原创，转载在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！⛽️
 
 <p align="center">
 <a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
@@ -384,7 +385,11 @@ Dubbo 是一款国产的 RPC 框架，由阿里开源。相关阅读：
 
 ### 联系我
 
-<img src="https://cdn.jsdelivr.net/gh/javaguide-tech/blog-images-3@main/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/31603935587_.pic_hd.jpg" style="zoom:67%;" />
+![各种技术的学习路线](https://img-blog.csdnimg.cn/20210609102613344.png)
+
+整理了一份各个技术的学习路线，需要的小伙伴加我微信：“**JavaGuide1996**”备注“**Github-学习路线**”即可！
+
+![](https://img-blog.csdnimg.cn/20210609084555810.jpg)
 
 ### 公众号
 
@@ -393,4 +398,3 @@ Dubbo 是一款国产的 RPC 框架，由阿里开源。相关阅读：
 **《Java 面试突击》:** 由本文档衍生的专为面试而生的《Java 面试突击》V4.0 PDF 版本[公众号](#公众号)后台回复 **"面试突击"** 即可领取！
 
 ![我的公众号](https://cdn.jsdelivr.net/gh/javaguide-tech/blog-images/2020-08/167598cd2e17b8ec.png)
-
