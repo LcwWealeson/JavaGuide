@@ -132,7 +132,7 @@ MVCC 可以看作是行级锁的一个升级，可以有效减少加锁操作，
 
 - Record lock：记录锁，单个行记录上的锁
 - Gap lock：间隙锁，锁定一个范围，不包括记录本身
-- Next-key lock：record+gap临键锁，锁定一个范围，包含记录本身
+- Next-key lock：record+gap 临键锁，锁定一个范围，包含记录本身
 
 ## 查询缓存
 
@@ -280,5 +280,4 @@ InnoDB 存储引擎在 **分布式事务** 的情况下一般会用到 **SERIALI
 ## 参考
 
 - 《高性能 MySQL》
-
 - https://www.omnisci.com/technical-glossary/relational-database
